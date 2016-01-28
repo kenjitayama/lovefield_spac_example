@@ -1,0 +1,26 @@
+{
+  "name": "lovefield_spac_example",
+  "version": "1.0.0",
+  "description": "Sample using Lovefield's SPAC",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenjitayama/lovefield_spac_example.git"
+  },
+  "author": "Kenji Tayama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenjitayama/lovefield_spac_example/issues"
+  },
+  "homepage": "https://github.com/kenjitayama/lovefield_spac_example#readme",
+  "devDependencies": {
+    "google-closure-compiler": "^20151015.0.0",
+    "gulp": "^3.9.0",
+    "js-yaml": "^3.5.2",
+    "mkdirp": "^0.5.1",
+    "nopt": "^3.0.6"
+  }
+}

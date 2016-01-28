@@ -1,0 +1,6 @@
+[submodule "devlib/closure-library"]
+	path = devlib/closure-library
+	url = https://github.com/google/closure-library.git
+[submodule "devlib/lovefield"]
+	path = devlib/lovefield
+	url = https://github.com/google/lovefield.git
